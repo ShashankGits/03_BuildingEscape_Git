@@ -1,0 +1,7 @@
+*/Binaries
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+*.VC.db
+BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-shm
+BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-wal
